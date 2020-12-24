@@ -3,12 +3,14 @@
     "name": "detail-id",
     "path": "/detail/:id?",
     "component": "D:\\\\xampp\\\\htdocs\\\\kerja\\\\catalog\\\\pages\\\\detail\\\\_id.vue",
-    "chunkName": "pages/detail/_id"
+    "chunkName": "pages/detail/_id",
+    "_name": "_176f6646"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\xampp\\\\htdocs\\\\kerja\\\\catalog\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_743df9cf"
   }
 ]

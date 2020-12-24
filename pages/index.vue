@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-if="loadingLoad">
     <!-- section banner -->
     <section>
       <v-container>
@@ -115,7 +115,8 @@ export default {
   layout:'produk',
   data (){
     return{
-      slider:0
+      slider:0,
+      loadingLoad: true,
     }
   },
   computed :{
@@ -135,6 +136,7 @@ export default {
       this.$nextTick(() => {
       this.$nuxt.$loading.start()
       setTimeout(() => this.$nuxt.$loading.finish(), 2000)
+      this.loading = false
     })
     },
   }
