@@ -1,0 +1,35 @@
+{
+  "data": {
+    "detail": {
+      "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/zebra1.png",
+      "title":"Adidas Yeezy Boost 350 V2 Zebra",
+      "desc":"Adidas is back with their latest Yeezy Boost 350 V2. Fresh off the heels of NBA All-Star Weekend, these Yeezy's are nicknamed the 'Zebras,' and come in a classic white, black and red color scheme. Sporting a white-based Primeknit upper with black accents giving off a Zebra stripe vibe, “SPLY-350” displayed across the sides in red finished off by a translucent BOOST cushioned sole.",
+      "price":"Rp 3,500,00",
+      "color":"WHITE/CORE BLACK/RED/ZEBRA",
+      "date":"25th February 2017",
+      "sku":"CP9652",
+      "thumbnailImages": [
+        {
+          "id":1,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/zebrapreview1.png"
+        },
+        {
+          "id":2,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/zebrapreview2.png"
+        },
+        {
+          "id":3,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/zebrapreview3.png"
+        },
+        {
+          "id":4,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/zebrapreview1.png"
+        }
+      ],
+      "tabs": {
+        "desc" : "Adidas is back with their latest Yeezy Boost 350 V2. Fresh off the heels of NBA All-Star Weekend, these Yeezy's are nicknamed the 'Zebras,' and come in a classic white, black and red color scheme. Sporting a white-based Primeknit upper with black accents giving off a Zebra stripe vibe, “SPLY-350” displayed across the sides in red finished off by a translucent BOOST cushioned sole.",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Mi bibendum neque egestas congue quisque egestas diam in. Ultricies mi eget mauris pharetra et ultrices neque. Odio tempor orci dapibus ultrices in. Tempor orci dapibus ultrices in iaculis. Blandit cursus risus at ultrices.."
+      }
+    }
+  }
+}

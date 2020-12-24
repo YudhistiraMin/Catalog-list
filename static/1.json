@@ -1,0 +1,35 @@
+{
+  "data": {
+    "detail": {
+      "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/preview1.png",
+      "title":"Adidas Yeezy Boost 350 V2 Bred (Black/Red)",
+      "desc":"first released on February 11, 2017, the Yeezy Boost 350 V2 ‘Bred’ combines a black Primeknit upper with red SPLY 350 branding, and a translucent black midsole housing full-length Boost. This colorway of Yeezy Boost 350 V2 remains one of the most coveted Yeezy's in existence.",
+      "color":"CORE BLACK/CORE BLACK/RED",
+      "date":"11th February 2017",
+      "price":"Rp 4,500,00",
+      "sku":"CP9652",
+      "thumbnailImages": [
+        {
+          "id":1,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/preview1.png"
+        },
+        {
+          "id":2,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/preview2.png"
+        },
+        {
+          "id":3,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/preview3.png"
+        },
+        {
+          "id":4,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/preview4.png"
+        }
+      ],
+      "tabs": {
+        "desc" : "first released on February 11, 2017, the Yeezy Boost 350 V2 ‘Bred’ combines a black Primeknit upper with red SPLY 350 branding, and a translucent black midsole housing full-length Boost. This colorway of Yeezy Boost 350 V2 remains one of the most coveted Yeezy's in existence.",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Mi bibendum neque egestas congue quisque egestas diam in. Ultricies mi eget mauris pharetra et ultrices neque. Odio tempor orci dapibus ultrices in. Tempor orci dapibus ultrices in iaculis. Blandit cursus risus at ultrices.."
+      }
+    }
+  } 
+}

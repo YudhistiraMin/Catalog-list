@@ -1,0 +1,35 @@
+{
+  "data": {
+    "detail": {
+      "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/yeezysand.png",
+      "title":"Adidas Yeezy Boost 350 V2 Sand Taupe",
+      "desc":"For their last few releases of the year, adidas Yeezy is starting strong with their widely beloved Yeezy Boost 350 v2. Hued in “Sand Taupe,” the upcoming colorway doesn’t stray too far from the brand’s perceivable comfort zone, likening itself to many of the standouts offered prior.",
+      "price":"Rp 5,250,00",
+      "color":"ELIADA/ELIADA/ELIADA",
+      "date":"18th December 2020",
+      "sku":"CP9652",
+      "thumbnailImages": [
+        {
+          "id":1,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/previewsand1.png"
+        },
+        {
+          "id":2,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/previewsand2.png"
+        },
+        {
+          "id":3,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/previewsand3.png"
+        },
+        {
+          "id":4,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/previewsand4.png"
+        }
+      ],
+      "tabs": {
+        "desc" : "For their last few releases of the year, adidas Yeezy is starting strong with their widely beloved Yeezy Boost 350 v2. Hued in “Sand Taupe,” the upcoming colorway doesn’t stray too far from the brand’s perceivable comfort zone, likening itself to many of the standouts offered prior.",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Mi bibendum neque egestas congue quisque egestas diam in. Ultricies mi eget mauris pharetra et ultrices neque. Odio tempor orci dapibus ultrices in. Tempor orci dapibus ultrices in iaculis. Blandit cursus risus at ultrices.."
+      }
+    }
+  } 
+}

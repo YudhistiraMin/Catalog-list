@@ -1,0 +1,70 @@
+
+// Globals
+$body-font-family: 'Open Sans', sans-serif;
+$body-font-weight: 600;
+
+//Color
+$black:#333333;
+$gray:#BDBDBD;
+$dark-grey:#979797;
+$white:#ffff;
+
+/* SCROLL */
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: #F5F5F5;
+}
+::-webkit-scrollbar-track{
+  background-color: #F5F5F5;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 10px;
+  background-color: $gray; 
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%,rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,transparent 75%, transparent)
+}
+
+// GENERAL
+.box-shadow {
+  box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.2) !important;
+}
+.border-radius{
+  border-radius: 15px !important;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.text-title{
+  font-weight:$body-font-weight ;
+  font-size: 0.86rem;
+  font-family: $body-font-family;
+  line-height: 21.29px;
+  justify-content: center;
+  color: $black;
+}
+.title-section{
+  font-family: $body-font-family;
+  font-weight:$body-font-weight ;
+  font-size:16px;
+  line-height:24.34px;
+}
+.span-data-produk{
+  font-family: $body-font-family;
+  font-weight:400;
+  font-size:14px;
+  line-height: 21.29px;
+  color: $gray;
+}
+.header-text{
+  font-weight:$body-font-weight ;
+  font-size: 1.5rem;
+  font-family: $body-font-family;
+  line-height: 42.59px;
+  justify-content: center;
+  color: $black;
+}
+.span-detail{
+  font-size: .80rem;
+  color: $black;
+  font-weight: 300;
+}

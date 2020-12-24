@@ -1,0 +1,35 @@
+{
+  "data": {
+    "detail": {
+      "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/campus.png",
+      "title":"Adidas Campus Pharrell Williams Ecru Tint",
+      "desc":"adidas and Pharrell Williams are a match made in heaven, so it’s hardly surprising these Campus sneakers are jam-packed with cool style. Reworking the ‘70s b-ball silhouette, they’re constructed with luxe leather uppers that come in the palette of creamy hues – think off-white, beige and clear brown – and then detailed with the signature serrated three-stripes and triangular perforations at the sidewalls. To finish, they’re accented at the tongues with zesty lemon laces and then detailed with the triangular ‘Hu’ debossing.",
+      "price":"Rp 1,000,00",
+      "color":"Ecru Tint / Cream White / Clear Brown",
+      "date":"25th February 2017",
+      "sku":"CP9652",
+      "thumbnailImages": [
+        {
+          "id":1,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/campuspreview1.png"
+        },
+        {
+          "id":2,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/campuspreview2.png"
+        },
+        {
+          "id":3,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/campuspreview3.png"
+        },
+        {
+          "id":4,
+          "image":"https://raw.githubusercontent.com/YudhistiraMin/image/main/campuspreview4.png"
+        }
+      ],
+      "tabs": {
+        "desc" : "Adidas is back with their latest Yeezy Boost 350 V2. Fresh off the heels of NBA All-Star Weekend, these Yeezy's are nicknamed the 'Zebras,' and come in a classic white, black and red color scheme. Sporting a white-based Primeknit upper with black accents giving off a Zebra stripe vibe, “SPLY-350” displayed across the sides in red finished off by a translucent BOOST cushioned sole.",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Mi bibendum neque egestas congue quisque egestas diam in. Ultricies mi eget mauris pharetra et ultrices neque. Odio tempor orci dapibus ultrices in. Tempor orci dapibus ultrices in iaculis. Blandit cursus risus at ultrices.."
+      }
+    }
+  } 
+}
